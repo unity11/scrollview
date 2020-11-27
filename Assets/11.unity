@@ -371,7 +371,7 @@ GameObject:
   - component: {fileID: 1288402868}
   - component: {fileID: 1288402869}
   m_Layer: 5
-  m_Name: Image
+  m_Name: ScrollRect
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -653,7 +653,7 @@ GameObject:
   - component: {fileID: 1717807861}
   - component: {fileID: 1717807860}
   m_Layer: 5
-  m_Name: Image
+  m_Name: Grid
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
